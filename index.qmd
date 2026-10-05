@@ -921,6 +921,7 @@ AI use is unrestricted in this course and costs you nothing, but you must be abl
 to explain every line you hand in. The note carries no points --- it is simply
 expected, the way a methods section is.
 
+AI was used in the improving of interpretations and the debugging of code. ChatGPT was the only LLM used in this task. The AI was only used when needed.
 ---
 
 ## Rubric
